@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Library>
+
+	<Book category="Cookery">
+		<ISBN>9780241361979</ISBN>
+		<Title>The Slow Cook Book</Title>
+		<Author>Heather Whinney</Author>
+	</Book>
+	
+	<Book category="Cookery">
+		<ISBN>9781785031168</ISBN>
+		<Title>Simple</Title>
+		<Author>Ottolenghi</Author>
+	</Book>
+	
+	<Book category="Technical">
+		<ISBN>9780135957059</ISBN>
+		<Title>The Pragmatic Programmer</Title>
+		<Author>David Thomas</Author>
+	</Book>
+	
+	<Book category="Technical">
+		<ISBN>9780132350884</ISBN>
+		<Title>Clean Code</Title>
+		<Author>Robert Martin</Author>
+	</Book>
+       
+</Library>   
